@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAEB-52F4
+
+ Directory of C:\Users\vshadmin\Desktop\ABC
+
+01-12-2018  13:01    <DIR>          .
+01-12-2018  13:01    <DIR>          ..
+01-12-2018  13:01                 0 data.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  200,155,217,920 bytes free
